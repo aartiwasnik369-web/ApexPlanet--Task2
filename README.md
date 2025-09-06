@@ -15,9 +15,3 @@ It includes a **Contact Form with validation**, a **responsive layout**, and a *
 - 👩‍💻 Footer credit: *Made by Aarti Wasnik*  
 
 
- 📂 Project Structure
-project-folder
-│── index.html
-│── style.css
-│── script.js
-│── README.md
